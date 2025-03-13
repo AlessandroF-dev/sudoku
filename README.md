@@ -13,7 +13,7 @@ Este projeto implementa o jogo Sudoku em duas versões: uma versão jogável via
 
 ## Tecnologias Utilizadas
 
-- Java 8
+- Java 8/17
 - Java Swing (para a interface gráfica)
 
 ## Como Executar
